@@ -1,6 +1,6 @@
 source 'https://rubygems.org/'
 
-gem 'cabybara'
+gem 'capybara'
 gem 'chromedriver-helper'
 gem 'cucumber'
 gem 'rspec'
