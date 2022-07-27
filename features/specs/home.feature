@@ -1,6 +1,5 @@
 #language: pt
 
-#Plano de teste
 Funcionalidade: Home Page
 
 Cenario: Acessar Home Page
